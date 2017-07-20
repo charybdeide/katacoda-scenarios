@@ -17,7 +17,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal-editor",
+    "uilayout": "terminal-editor"
   },
   "backend": {
     "imageid": "docker"
